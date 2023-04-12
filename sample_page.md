@@ -1,6 +1,6 @@
 ## Meine neue Überschrift
 
-**Project description:** Hier ist mein erster Text
+**Project description:** Hier ist mein erster Text, v. 2
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
