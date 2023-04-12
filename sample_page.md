@@ -9,20 +9,20 @@ Vom 24. 03.2023 bis 07.04.2023
 
 Flug von Frankfurt mit Condor
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Teilnehmer:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Renate, ich und Renates Schwester Gudrun
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/IMG_6025.jpg?raw=true"/>
+### 3. Beurteilung:
 
-### 4. Provide a basis for further data collection through surveys or experiments
+Hervorragend
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 4. Was wir alles richtig gemacht haben, was man besser machen könnte:
+
+Wir sind selbst mit dem eigenen Auto nach Frankfurt gefahren und haben es dort abgegeben bei einem Parkdienst, der es direkt bei der Ankunft übernommen hat und uns bei der Ankunft des Rückfluges hier wieder übergeben hat. Dies kostet einschließlich 16 Tage Parkdauer so viel wie eine Fahrt mit dem Taxi. Sehr gut gelaufen.
+
+Wir haben eine Pauschalreise gebucht über TUI mit Schiff und Flug. Es gab keine Probleme. In der Woche danach war der große Streik aller Verkehrsmittel in Deutschland. Dies hat der Reiseveranstalter frühzeitig für die dann gekommenen Passsagiere durch Verlegung des Fluges von Montag auf Sonntag so gelöst, dass alle ihr Ziel erreicht haben. Ohne Pauschalreise wäre das sicher schwierig geworden. Sehr gut gelaufen.
+
+
