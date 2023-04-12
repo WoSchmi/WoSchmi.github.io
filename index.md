@@ -4,8 +4,7 @@
 
 ### Mein Reiseplan 
 
-[Project 1 Title](/sample_page.md)
-<img src="images/IMG_6025.jpg?raw=true"/>
+[Reisedaten und Umstände](/sample_page.md)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
