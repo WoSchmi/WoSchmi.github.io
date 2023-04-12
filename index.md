@@ -4,7 +4,7 @@
 
 ### Mein Reiseplan 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/sample_page.md)
 <img src="images/IMG_6025.jpg?raw=true"/>
 
 ---
