@@ -1,16 +1,13 @@
-## Meine neue Überschrift
+## Reisedaten und Umstände
 
-**Project description:** Hier ist mein erster Text, v. 2
+**Project description:** Dies war eine Reise mit dem Kreuzfahrtschiff 'Mein Schiff 2' 
+in der Karibik anläßlich unseres fünfzigsten Hochzeitstages
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Daten:
 
-Gallia est omnis divisa in partes tres. 
+Vom 24. 03.2023 bis 07.04.2023
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Flug von Frankfurt mit Condor
 
 ### 2. Assess assumptions on which statistical inference will be based
 
